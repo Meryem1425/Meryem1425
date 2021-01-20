@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Asli0911&show_icons=true&theme=buefy" align='right' width="55%">
+<img src="https://github-readme-stats.vercel.app/api?username=Meryem1425&show_icons=true&theme=buefy" align='right' width="55%">
 
 ### Hi there 👋
 ### Meryem Vildan Sarikaya
