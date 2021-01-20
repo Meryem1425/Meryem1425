@@ -1,16 +1,25 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=Asli0911&show_icons=true&theme=buefy" align='right' width="55%">
 
+### Hi there 👋
+### Meryem Vildan Sarikaya
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryemvildansarikaya/)
+[![Tableau](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=orange)](https://public.tableau.com/profile/vildan.sarikaya#!/)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://vildansarikaya25.medium.com/)
 <!--
 **Meryem1425/Meryem1425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about anything that you want to learn
+
 -->
+
+
+## I know:
+
+Python / Machine Learning / Deep Learning / Natural Language Processing / Data Analysis / Data Visualization /
+
+Microsoft SQL Server / Database Modelling & Design / Tableau / Google Sheets / 
+
+Git/Github / AWS / R 
