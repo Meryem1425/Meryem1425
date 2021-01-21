@@ -5,7 +5,7 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryemvildansarikaya/)
 [![Tableau](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=orange)](https://public.tableau.com/profile/vildan.sarikaya#!/)
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=green)](https://vildansarikaya25.medium.com/)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://vildansarikaya25.medium.com/)
 <!--
 **Meryem1425/Meryem1425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
